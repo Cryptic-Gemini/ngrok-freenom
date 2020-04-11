@@ -138,4 +138,4 @@ url forwarding==> https://my.freenom.com/knowledgebase.php?action=displayarticle
 
 servername==> https://www.youtube.com/watch?v=S_e4mA3SnOE 
 
-installation gnork==> https://www.youtube.com/watch?v=S_e4mA3SnOE 
+installation ngork==> https://www.youtube.com/watch?v=S_e4mA3SnOE 
